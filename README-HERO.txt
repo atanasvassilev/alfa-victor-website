@@ -1,0 +1,1 @@
+Replace hero.jpg with the approved hero image and upload to repository root as hero.jpg

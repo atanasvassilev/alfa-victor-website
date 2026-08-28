@@ -1,0 +1,1 @@
+const s=1994;const y=new Date().getFullYear()-s;document.addEventListener("DOMContentLoaded",()=>{const e=document.getElementById("exp");if(e)e.textContent=y;});
