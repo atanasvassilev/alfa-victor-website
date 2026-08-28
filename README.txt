@@ -1,0 +1,1 @@
+Place your approved hero image in repository root as hero.jpg
