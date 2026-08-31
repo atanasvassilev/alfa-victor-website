@@ -1,1 +1,1 @@
-Place your approved hero image in repository root as hero.jpg
+Replace the content inside about.html, services.html and industries.html with the supplied content snippets. Remove any duplicate Services heading at the bottom of services.html.
